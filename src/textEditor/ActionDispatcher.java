@@ -75,6 +75,9 @@ public class ActionDispatcher {
 		mainPanel.isModified = false;
 		mainPanel.updateTitle();
 
+		// Set Caret Position to top of page
+		mainPanel.getTextPane().setCaretPosition(0);
+
 		return selectedFile;
 	}
 
