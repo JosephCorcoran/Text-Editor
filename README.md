@@ -37,4 +37,4 @@ This project demonstrates my growth as a developer and my understanding of Java 
 1. Download the TextEditor.jar file.
 2. Open a terminal or command prompt and navigate to the folder containing the JAR file.
 3. Run the program with: `java -jar TextEditor.jar`.
-- If Option 1 doesn't work, use this method instead.
+- If Option 3 doesn't work, use this method instead.
